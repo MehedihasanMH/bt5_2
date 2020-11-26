@@ -1,0 +1,14 @@
+.box{
+	min-height: 60px;
+	background-color: red;
+	margin-bottom: 10px;
+	text-align: center;
+}
+.coca{
+	background-color: black;
+	min-height: 200px;
+	margin-bottom: 10px;
+}
+.di{
+	min-height: 250px;
+}
